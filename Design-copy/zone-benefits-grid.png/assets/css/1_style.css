@@ -1,0 +1,28 @@
+.container {
+	background-color: #FFFFFF;
+	width: 60%;
+	margin-left: auto;
+  	margin-right: auto;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+
+.image {
+	display: inline-table;
+	width: 100%;
+}
+
+img {
+	margin: 0px 100px 0px 0px;
+    padding: 30px 0px 15px 0px;
+}
+
+h3 {
+	color: #75BA8C;
+}
+
+.text {
+	display: flex;
+	width: 100%;
+}
