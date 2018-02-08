@@ -19,6 +19,3 @@
 
 ### Design-copy
 (voir code)
-
-### Mon Curriculum vitae
-[Curriculum-vitae](https://laureenb.github.io/Curriculum-vitae/)
