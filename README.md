@@ -1,6 +1,3 @@
-# Hello :)
-## Voici des exemples de mes travaux:
-
 ### Site réalisé dans le but de promouvoir le marché d'artisants de la commune de Forest.
 [Les mardis Forestois](https://laureenb.github.io/Les-mardis-Forestois/)
 
